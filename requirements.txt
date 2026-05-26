@@ -4,4 +4,4 @@ joblib
 numpy
 opencv-python-headless
 pillow
-tensorflow-cpu
+tensorflow
